@@ -1,6 +1,6 @@
 {
   "name": "feather-postprocessor-standard-after",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "extend standard postprocessor",
   "main": "index.js",
   "scripts": {
@@ -13,14 +13,10 @@
   "author": {
     "name": "jsyczhanghao@sina.com"
   },
-  "bin": {
-    "feather": "bin/feather"
-  },
   "license": "ISC",
   "keyword": [
         "feather",
-        "frontend",
-        "industrialized framework"
+        "standard"
     ],
   "dependencies": {
   }
